@@ -1,0 +1,2928 @@
+array(266) {
+  [0]=>
+  array(4) {
+    [0]=>
+    string(105) "<li><a title="Afghanistan" href="https://www.amcharts.com/svg-maps/?map=afghanistan">Afghanistan</a></li>"
+    [1]=>
+    string(11) "Afghanistan"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=afghanistan"
+    [3]=>
+    string(11) "Afghanistan"
+  }
+  [1]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Albania" href="https://www.amcharts.com/svg-maps/?map=albania">Albania</a></li>"
+    [1]=>
+    string(7) "Albania"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=albania"
+    [3]=>
+    string(7) "Albania"
+  }
+  [2]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Algeria" href="https://www.amcharts.com/svg-maps/?map=algeria">Algeria</a></li>"
+    [1]=>
+    string(7) "Algeria"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=algeria"
+    [3]=>
+    string(7) "Algeria"
+  }
+  [3]=>
+  array(4) {
+    [0]=>
+    string(113) "<li><a title="American Samoa" href="https://www.amcharts.com/svg-maps/?map=americanSamoa">American Samoa</a></li>"
+    [1]=>
+    string(14) "American Samoa"
+    [2]=>
+    string(52) "https://www.amcharts.com/svg-maps/?map=americanSamoa"
+    [3]=>
+    string(14) "American Samoa"
+  }
+  [4]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Andorra" href="https://www.amcharts.com/svg-maps/?map=andorra">Andorra</a></li>"
+    [1]=>
+    string(7) "Andorra"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=andorra"
+    [3]=>
+    string(7) "Andorra"
+  }
+  [5]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Angola" href="https://www.amcharts.com/svg-maps/?map=angola">Angola</a></li>"
+    [1]=>
+    string(6) "Angola"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=angola"
+    [3]=>
+    string(6) "Angola"
+  }
+  [6]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Anguilla" href="https://www.amcharts.com/svg-maps/?map=anguilla">Anguilla</a></li>"
+    [1]=>
+    string(8) "Anguilla"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=anguilla"
+    [3]=>
+    string(8) "Anguilla"
+  }
+  [7]=>
+  array(4) {
+    [0]=>
+    string(124) "<li><a title="Antigua and Barbuda" href="https://www.amcharts.com/svg-maps/?map=antiguaBarbuda">Antigua and Barbuda</a></li>"
+    [1]=>
+    string(19) "Antigua and Barbuda"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=antiguaBarbuda"
+    [3]=>
+    string(19) "Antigua and Barbuda"
+  }
+  [8]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Argentina" href="https://www.amcharts.com/svg-maps/?map=argentina">Argentina</a></li>"
+    [1]=>
+    string(9) "Argentina"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=argentina"
+    [3]=>
+    string(9) "Argentina"
+  }
+  [9]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Armenia" href="https://www.amcharts.com/svg-maps/?map=armenia">Armenia</a></li>"
+    [1]=>
+    string(7) "Armenia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=armenia"
+    [3]=>
+    string(7) "Armenia"
+  }
+  [10]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Aruba" href="https://www.amcharts.com/svg-maps/?map=aruba">Aruba</a></li>"
+    [1]=>
+    string(5) "Aruba"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=aruba"
+    [3]=>
+    string(5) "Aruba"
+  }
+  [11]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Australia" href="https://www.amcharts.com/svg-maps/?map=australia">Australia</a></li>"
+    [1]=>
+    string(9) "Australia"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=australia"
+    [3]=>
+    string(9) "Australia"
+  }
+  [12]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Austria" href="https://www.amcharts.com/svg-maps/?map=austria">Austria</a></li>"
+    [1]=>
+    string(7) "Austria"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=austria"
+    [3]=>
+    string(7) "Austria"
+  }
+  [13]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Azerbaijan" href="https://www.amcharts.com/svg-maps/?map=azerbaijan">Azerbaijan</a></li>"
+    [1]=>
+    string(10) "Azerbaijan"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=azerbaijan"
+    [3]=>
+    string(10) "Azerbaijan"
+  }
+  [14]=>
+  array(4) {
+    [0]=>
+    string(101) "<li><a title="The Bahamas" href="https://www.amcharts.com/svg-maps/?map=bahamas">The Bahamas</a></li>"
+    [1]=>
+    string(11) "The Bahamas"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=bahamas"
+    [3]=>
+    string(11) "The Bahamas"
+  }
+  [15]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Bahrain" href="https://www.amcharts.com/svg-maps/?map=bahrain">Bahrain</a></li>"
+    [1]=>
+    string(7) "Bahrain"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=bahrain"
+    [3]=>
+    string(7) "Bahrain"
+  }
+  [16]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Bangladesh" href="https://www.amcharts.com/svg-maps/?map=bangladesh">Bangladesh</a></li>"
+    [1]=>
+    string(10) "Bangladesh"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=bangladesh"
+    [3]=>
+    string(10) "Bangladesh"
+  }
+  [17]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Barbados" href="https://www.amcharts.com/svg-maps/?map=barbados">Barbados</a></li>"
+    [1]=>
+    string(8) "Barbados"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=barbados"
+    [3]=>
+    string(8) "Barbados"
+  }
+  [18]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Belarus" href="https://www.amcharts.com/svg-maps/?map=belarus">Belarus</a></li>"
+    [1]=>
+    string(7) "Belarus"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=belarus"
+    [3]=>
+    string(7) "Belarus"
+  }
+  [19]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Belgium" href="https://www.amcharts.com/svg-maps/?map=belgium">Belgium</a></li>"
+    [1]=>
+    string(7) "Belgium"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=belgium"
+    [3]=>
+    string(7) "Belgium"
+  }
+  [20]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Belize" href="https://www.amcharts.com/svg-maps/?map=belize">Belize</a></li>"
+    [1]=>
+    string(6) "Belize"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=belize"
+    [3]=>
+    string(6) "Belize"
+  }
+  [21]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Benin" href="https://www.amcharts.com/svg-maps/?map=benin">Benin</a></li>"
+    [1]=>
+    string(5) "Benin"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=benin"
+    [3]=>
+    string(5) "Benin"
+  }
+  [22]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Bermuda" href="https://www.amcharts.com/svg-maps/?map=bermuda">Bermuda</a></li>"
+    [1]=>
+    string(7) "Bermuda"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=bermuda"
+    [3]=>
+    string(7) "Bermuda"
+  }
+  [23]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Bhutan" href="https://www.amcharts.com/svg-maps/?map=bhutan">Bhutan</a></li>"
+    [1]=>
+    string(6) "Bhutan"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=bhutan"
+    [3]=>
+    string(6) "Bhutan"
+  }
+  [24]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Bolivia" href="https://www.amcharts.com/svg-maps/?map=bolivia">Bolivia</a></li>"
+    [1]=>
+    string(7) "Bolivia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=bolivia"
+    [3]=>
+    string(7) "Bolivia"
+  }
+  [25]=>
+  array(4) {
+    [0]=>
+    string(148) "<li><a title="Bosnia-Herzegovina Cantons" href="https://www.amcharts.com/svg-maps/?map=bosniaHerzegovinaCantons">Bosnia-Herzegovina Cantons</a></li>"
+    [1]=>
+    string(26) "Bosnia-Herzegovina Cantons"
+    [2]=>
+    string(63) "https://www.amcharts.com/svg-maps/?map=bosniaHerzegovinaCantons"
+    [3]=>
+    string(26) "Bosnia-Herzegovina Cantons"
+  }
+  [26]=>
+  array(4) {
+    [0]=>
+    string(148) "<li><a title="Bosnia-Herzegovina Regions" href="https://www.amcharts.com/svg-maps/?map=bosniaHerzegovinaRegions">Bosnia-Herzegovina Regions</a></li>"
+    [1]=>
+    string(26) "Bosnia-Herzegovina Regions"
+    [2]=>
+    string(63) "https://www.amcharts.com/svg-maps/?map=bosniaHerzegovinaRegions"
+    [3]=>
+    string(26) "Bosnia-Herzegovina Regions"
+  }
+  [27]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Botswana" href="https://www.amcharts.com/svg-maps/?map=botswana">Botswana</a></li>"
+    [1]=>
+    string(8) "Botswana"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=botswana"
+    [3]=>
+    string(8) "Botswana"
+  }
+  [28]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Brazil" href="https://www.amcharts.com/svg-maps/?map=brazil">Brazil</a></li>"
+    [1]=>
+    string(6) "Brazil"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=brazil"
+    [3]=>
+    string(6) "Brazil"
+  }
+  [29]=>
+  array(4) {
+    [0]=>
+    string(136) "<li><a title="British Virgin Islands" href="https://www.amcharts.com/svg-maps/?map=britishVirginIslands">British Virgin Islands</a></li>"
+    [1]=>
+    string(22) "British Virgin Islands"
+    [2]=>
+    string(59) "https://www.amcharts.com/svg-maps/?map=britishVirginIslands"
+    [3]=>
+    string(22) "British Virgin Islands"
+  }
+  [30]=>
+  array(4) {
+    [0]=>
+    string(122) "<li><a title="Brunei Darussalam" href="https://www.amcharts.com/svg-maps/?map=bruneiDarussalam">Brunei Darussalam</a></li>"
+    [1]=>
+    string(17) "Brunei Darussalam"
+    [2]=>
+    string(55) "https://www.amcharts.com/svg-maps/?map=bruneiDarussalam"
+    [3]=>
+    string(17) "Brunei Darussalam"
+  }
+  [31]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Bulgaria" href="https://www.amcharts.com/svg-maps/?map=bulgaria">Bulgaria</a></li>"
+    [1]=>
+    string(8) "Bulgaria"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=bulgaria"
+    [3]=>
+    string(8) "Bulgaria"
+  }
+  [32]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Burkina Faso" href="https://www.amcharts.com/svg-maps/?map=burkinaFaso">Burkina Faso</a></li>"
+    [1]=>
+    string(12) "Burkina Faso"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=burkinaFaso"
+    [3]=>
+    string(12) "Burkina Faso"
+  }
+  [33]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Burundi" href="https://www.amcharts.com/svg-maps/?map=burundi">Burundi</a></li>"
+    [1]=>
+    string(7) "Burundi"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=burundi"
+    [3]=>
+    string(7) "Burundi"
+  }
+  [34]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Cambodia" href="https://www.amcharts.com/svg-maps/?map=cambodia">Cambodia</a></li>"
+    [1]=>
+    string(8) "Cambodia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=cambodia"
+    [3]=>
+    string(8) "Cambodia"
+  }
+  [35]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Cameroon" href="https://www.amcharts.com/svg-maps/?map=cameroon">Cameroon</a></li>"
+    [1]=>
+    string(8) "Cameroon"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=cameroon"
+    [3]=>
+    string(8) "Cameroon"
+  }
+  [36]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Canada" href="https://www.amcharts.com/svg-maps/?map=canada">Canada</a></li>"
+    [1]=>
+    string(6) "Canada"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=canada"
+    [3]=>
+    string(6) "Canada"
+  }
+  [37]=>
+  array(4) {
+    [0]=>
+    string(101) "<li><a title="Cape Verde" href="https://www.amcharts.com/svg-maps/?map=capeVerde">Cape Verde</a></li>"
+    [1]=>
+    string(10) "Cape Verde"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=capeVerde"
+    [3]=>
+    string(10) "Cape Verde"
+  }
+  [38]=>
+  array(4) {
+    [0]=>
+    string(134) "<li><a title="Caribbean Netherlands" href="https://www.amcharts.com/svg-maps/?map=caribbeanNetherlands">Caribbean Netherlands</a></li>"
+    [1]=>
+    string(21) "Caribbean Netherlands"
+    [2]=>
+    string(59) "https://www.amcharts.com/svg-maps/?map=caribbeanNetherlands"
+    [3]=>
+    string(21) "Caribbean Netherlands"
+  }
+  [39]=>
+  array(4) {
+    [0]=>
+    string(113) "<li><a title="Cayman Islands" href="https://www.amcharts.com/svg-maps/?map=caymanIslands">Cayman Islands</a></li>"
+    [1]=>
+    string(14) "Cayman Islands"
+    [2]=>
+    string(52) "https://www.amcharts.com/svg-maps/?map=caymanIslands"
+    [3]=>
+    string(14) "Cayman Islands"
+  }
+  [40]=>
+  array(4) {
+    [0]=>
+    string(142) "<li><a title="Central African Republic" href="https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic">Central African Republic</a></li>"
+    [1]=>
+    string(24) "Central African Republic"
+    [2]=>
+    string(61) "https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic"
+    [3]=>
+    string(24) "Central African Republic"
+  }
+  [41]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Chad" href="https://www.amcharts.com/svg-maps/?map=chad">Chad</a></li>"
+    [1]=>
+    string(4) "Chad"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=chad"
+    [3]=>
+    string(4) "Chad"
+  }
+  [42]=>
+  array(4) {
+    [0]=>
+    string(116) "<li><a title="Channel Islands" href="https://www.amcharts.com/svg-maps/?map=channelIslands">Channel Islands</a></li>"
+    [1]=>
+    string(15) "Channel Islands"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=channelIslands"
+    [3]=>
+    string(15) "Channel Islands"
+  }
+  [43]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Chile" href="https://www.amcharts.com/svg-maps/?map=chile">Chile</a></li>"
+    [1]=>
+    string(5) "Chile"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=chile"
+    [3]=>
+    string(5) "Chile"
+  }
+  [44]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="China" href="https://www.amcharts.com/svg-maps/?map=china">China</a></li>"
+    [1]=>
+    string(5) "China"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=china"
+    [3]=>
+    string(5) "China"
+  }
+  [45]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="Christmas Island" href="https://www.amcharts.com/svg-maps/?map=christmasIsland">Christmas Island</a></li>"
+    [1]=>
+    string(16) "Christmas Island"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=christmasIsland"
+    [3]=>
+    string(16) "Christmas Island"
+  }
+  [46]=>
+  array(4) {
+    [0]=>
+    string(110) "<li><a title="Cocos Islands" href="https://www.amcharts.com/svg-maps/?map=cocosIslands">Cocos Islands</a></li>"
+    [1]=>
+    string(13) "Cocos Islands"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=cocosIslands"
+    [3]=>
+    string(13) "Cocos Islands"
+  }
+  [47]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Colombia" href="https://www.amcharts.com/svg-maps/?map=colombia">Colombia</a></li>"
+    [1]=>
+    string(8) "Colombia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=colombia"
+    [3]=>
+    string(8) "Colombia"
+  }
+  [48]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Comoros" href="https://www.amcharts.com/svg-maps/?map=comoros">Comoros</a></li>"
+    [1]=>
+    string(7) "Comoros"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=comoros"
+    [3]=>
+    string(7) "Comoros"
+  }
+  [49]=>
+  array(4) {
+    [0]=>
+    string(95) "<li><a title="Congo DR" href="https://www.amcharts.com/svg-maps/?map=congoDR">Congo DR</a></li>"
+    [1]=>
+    string(8) "Congo DR"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=congoDR"
+    [3]=>
+    string(8) "Congo DR"
+  }
+  [50]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Congo" href="https://www.amcharts.com/svg-maps/?map=congo">Congo</a></li>"
+    [1]=>
+    string(5) "Congo"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=congo"
+    [3]=>
+    string(5) "Congo"
+  }
+  [51]=>
+  array(4) {
+    [0]=>
+    string(132) "<li><a title="Continents - Russia split" href="https://www.amcharts.com/svg-maps/?map=continents">Continents - Russia split</a></li>"
+    [1]=>
+    string(25) "Continents - Russia split"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=continents"
+    [3]=>
+    string(25) "Continents - Russia split"
+  }
+  [52]=>
+  array(4) {
+    [0]=>
+    string(178) "<li><a title="Continents with Antarctica - Russia split" href="https://www.amcharts.com/svg-maps/?map=continentsWithAntarctica">Continents with Antarctica - Russia split</a></li>"
+    [1]=>
+    string(41) "Continents with Antarctica - Russia split"
+    [2]=>
+    string(63) "https://www.amcharts.com/svg-maps/?map=continentsWithAntarctica"
+    [3]=>
+    string(41) "Continents with Antarctica - Russia split"
+  }
+  [53]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Cook Islands" href="https://www.amcharts.com/svg-maps/?map=cookIslands">Cook Islands</a></li>"
+    [1]=>
+    string(12) "Cook Islands"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=cookIslands"
+    [3]=>
+    string(12) "Cook Islands"
+  }
+  [54]=>
+  array(4) {
+    [0]=>
+    string(101) "<li><a title="Costa Rica" href="https://www.amcharts.com/svg-maps/?map=costaRica">Costa Rica</a></li>"
+    [1]=>
+    string(10) "Costa Rica"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=costaRica"
+    [3]=>
+    string(10) "Costa Rica"
+  }
+  [55]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Croatia" href="https://www.amcharts.com/svg-maps/?map=croatia">Croatia</a></li>"
+    [1]=>
+    string(7) "Croatia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=croatia"
+    [3]=>
+    string(7) "Croatia"
+  }
+  [56]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Cuba" href="https://www.amcharts.com/svg-maps/?map=cuba">Cuba</a></li>"
+    [1]=>
+    string(4) "Cuba"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=cuba"
+    [3]=>
+    string(4) "Cuba"
+  }
+  [57]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Curacao" href="https://www.amcharts.com/svg-maps/?map=curacao">Curacao</a></li>"
+    [1]=>
+    string(7) "Curacao"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=curacao"
+    [3]=>
+    string(7) "Curacao"
+  }
+  [58]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Cyprus" href="https://www.amcharts.com/svg-maps/?map=cyprus">Cyprus</a></li>"
+    [1]=>
+    string(6) "Cyprus"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=cyprus"
+    [3]=>
+    string(6) "Cyprus"
+  }
+  [59]=>
+  array(4) {
+    [0]=>
+    string(140) "<li><a title="Cyprus - Northern Cyprus" href="https://www.amcharts.com/svg-maps/?map=cyprusNorthernCyprus">Cyprus - Northern Cyprus</a></li>"
+    [1]=>
+    string(24) "Cyprus - Northern Cyprus"
+    [2]=>
+    string(59) "https://www.amcharts.com/svg-maps/?map=cyprusNorthernCyprus"
+    [3]=>
+    string(24) "Cyprus - Northern Cyprus"
+  }
+  [60]=>
+  array(4) {
+    [0]=>
+    string(113) "<li><a title="Czech Republic" href="https://www.amcharts.com/svg-maps/?map=czechRepublic">Czech Republic</a></li>"
+    [1]=>
+    string(14) "Czech Republic"
+    [2]=>
+    string(52) "https://www.amcharts.com/svg-maps/?map=czechRepublic"
+    [3]=>
+    string(14) "Czech Republic"
+  }
+  [61]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Denmark" href="https://www.amcharts.com/svg-maps/?map=denmark">Denmark</a></li>"
+    [1]=>
+    string(7) "Denmark"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=denmark"
+    [3]=>
+    string(7) "Denmark"
+  }
+  [62]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Djibouti" href="https://www.amcharts.com/svg-maps/?map=djibouti">Djibouti</a></li>"
+    [1]=>
+    string(8) "Djibouti"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=djibouti"
+    [3]=>
+    string(8) "Djibouti"
+  }
+  [63]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Dominica" href="https://www.amcharts.com/svg-maps/?map=dominica">Dominica</a></li>"
+    [1]=>
+    string(8) "Dominica"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=dominica"
+    [3]=>
+    string(8) "Dominica"
+  }
+  [64]=>
+  array(4) {
+    [0]=>
+    string(125) "<li><a title="Dominican Republic" href="https://www.amcharts.com/svg-maps/?map=dominicanRepublic">Dominican Republic</a></li>"
+    [1]=>
+    string(18) "Dominican Republic"
+    [2]=>
+    string(56) "https://www.amcharts.com/svg-maps/?map=dominicanRepublic"
+    [3]=>
+    string(18) "Dominican Republic"
+  }
+  [65]=>
+  array(4) {
+    [0]=>
+    string(101) "<li><a title="East Timor" href="https://www.amcharts.com/svg-maps/?map=eastTimor">East Timor</a></li>"
+    [1]=>
+    string(10) "East Timor"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=eastTimor"
+    [3]=>
+    string(10) "East Timor"
+  }
+  [66]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Ecuador" href="https://www.amcharts.com/svg-maps/?map=ecuador">Ecuador</a></li>"
+    [1]=>
+    string(7) "Ecuador"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=ecuador"
+    [3]=>
+    string(7) "Ecuador"
+  }
+  [67]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Egypt" href="https://www.amcharts.com/svg-maps/?map=egypt">Egypt</a></li>"
+    [1]=>
+    string(5) "Egypt"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=egypt"
+    [3]=>
+    string(5) "Egypt"
+  }
+  [68]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="El Salvador" href="https://www.amcharts.com/svg-maps/?map=elSalvador">El Salvador</a></li>"
+    [1]=>
+    string(11) "El Salvador"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=elSalvador"
+    [3]=>
+    string(11) "El Salvador"
+  }
+  [69]=>
+  array(4) {
+    [0]=>
+    string(122) "<li><a title="Equatorial Guinea" href="https://www.amcharts.com/svg-maps/?map=equatorialGuinea">Equatorial Guinea</a></li>"
+    [1]=>
+    string(17) "Equatorial Guinea"
+    [2]=>
+    string(55) "https://www.amcharts.com/svg-maps/?map=equatorialGuinea"
+    [3]=>
+    string(17) "Equatorial Guinea"
+  }
+  [70]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Eritrea" href="https://www.amcharts.com/svg-maps/?map=eritrea">Eritrea</a></li>"
+    [1]=>
+    string(7) "Eritrea"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=eritrea"
+    [3]=>
+    string(7) "Eritrea"
+  }
+  [71]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Estonia" href="https://www.amcharts.com/svg-maps/?map=estonia">Estonia</a></li>"
+    [1]=>
+    string(7) "Estonia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=estonia"
+    [3]=>
+    string(7) "Estonia"
+  }
+  [72]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Ethiopia" href="https://www.amcharts.com/svg-maps/?map=ethiopia">Ethiopia</a></li>"
+    [1]=>
+    string(8) "Ethiopia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=ethiopia"
+    [3]=>
+    string(8) "Ethiopia"
+  }
+  [73]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="Falkland Islands" href="https://www.amcharts.com/svg-maps/?map=falklandIslands">Falkland Islands</a></li>"
+    [1]=>
+    string(16) "Falkland Islands"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=falklandIslands"
+    [3]=>
+    string(16) "Falkland Islands"
+  }
+  [74]=>
+  array(4) {
+    [0]=>
+    string(110) "<li><a title="Faroe Islands" href="https://www.amcharts.com/svg-maps/?map=faroeIslands">Faroe Islands</a></li>"
+    [1]=>
+    string(13) "Faroe Islands"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=faroeIslands"
+    [3]=>
+    string(13) "Faroe Islands"
+  }
+  [75]=>
+  array(4) {
+    [0]=>
+    string(98) "<li><a title="Fiji East" href="https://www.amcharts.com/svg-maps/?map=fijiEast">Fiji East</a></li>"
+    [1]=>
+    string(9) "Fiji East"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=fijiEast"
+    [3]=>
+    string(9) "Fiji East"
+  }
+  [76]=>
+  array(4) {
+    [0]=>
+    string(98) "<li><a title="Fiji West" href="https://www.amcharts.com/svg-maps/?map=fijiWest">Fiji West</a></li>"
+    [1]=>
+    string(9) "Fiji West"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=fijiWest"
+    [3]=>
+    string(9) "Fiji West"
+  }
+  [77]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Finland" href="https://www.amcharts.com/svg-maps/?map=finland">Finland</a></li>"
+    [1]=>
+    string(7) "Finland"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=finland"
+    [3]=>
+    string(7) "Finland"
+  }
+  [78]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="France 2016" href="https://www.amcharts.com/svg-maps/?map=france2016">France 2016</a></li>"
+    [1]=>
+    string(11) "France 2016"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=france2016"
+    [3]=>
+    string(11) "France 2016"
+  }
+  [79]=>
+  array(4) {
+    [0]=>
+    string(125) "<li><a title="France Departments" href="https://www.amcharts.com/svg-maps/?map=franceDepartments">France Departments</a></li>"
+    [1]=>
+    string(18) "France Departments"
+    [2]=>
+    string(56) "https://www.amcharts.com/svg-maps/?map=franceDepartments"
+    [3]=>
+    string(18) "France Departments"
+  }
+  [80]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="France" href="https://www.amcharts.com/svg-maps/?map=france">France</a></li>"
+    [1]=>
+    string(6) "France"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=france"
+    [3]=>
+    string(6) "France"
+  }
+  [81]=>
+  array(4) {
+    [0]=>
+    string(110) "<li><a title="French Guiana" href="https://www.amcharts.com/svg-maps/?map=frenchGuiana">French Guiana</a></li>"
+    [1]=>
+    string(13) "French Guiana"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=frenchGuiana"
+    [3]=>
+    string(13) "French Guiana"
+  }
+  [82]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="French Polynesia" href="https://www.amcharts.com/svg-maps/?map=frenchPolynesia">French Polynesia</a></li>"
+    [1]=>
+    string(16) "French Polynesia"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=frenchPolynesia"
+    [3]=>
+    string(16) "French Polynesia"
+  }
+  [83]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Gabon" href="https://www.amcharts.com/svg-maps/?map=gabon">Gabon</a></li>"
+    [1]=>
+    string(5) "Gabon"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=gabon"
+    [3]=>
+    string(5) "Gabon"
+  }
+  [84]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Gambia" href="https://www.amcharts.com/svg-maps/?map=gambia">Gambia</a></li>"
+    [1]=>
+    string(6) "Gambia"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=gambia"
+    [3]=>
+    string(6) "Gambia"
+  }
+  [85]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Georgia" href="https://www.amcharts.com/svg-maps/?map=georgia">Georgia</a></li>"
+    [1]=>
+    string(7) "Georgia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=georgia"
+    [3]=>
+    string(7) "Georgia"
+  }
+  [86]=>
+  array(4) {
+    [0]=>
+    string(143) "<li><a title="Georgia with South Ossetia" href="https://www.amcharts.com/svg-maps/?map=georgiaSouthOssetia">Georgia with South Ossetia</a></li>"
+    [1]=>
+    string(26) "Georgia with South Ossetia"
+    [2]=>
+    string(58) "https://www.amcharts.com/svg-maps/?map=georgiaSouthOssetia"
+    [3]=>
+    string(26) "Georgia with South Ossetia"
+  }
+  [87]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Germany" href="https://www.amcharts.com/svg-maps/?map=germany">Germany</a></li>"
+    [1]=>
+    string(7) "Germany"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=germany"
+    [3]=>
+    string(7) "Germany"
+  }
+  [88]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Ghana" href="https://www.amcharts.com/svg-maps/?map=ghana">Ghana</a></li>"
+    [1]=>
+    string(5) "Ghana"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=ghana"
+    [3]=>
+    string(5) "Ghana"
+  }
+  [89]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Gibraltar" href="https://www.amcharts.com/svg-maps/?map=gibraltar">Gibraltar</a></li>"
+    [1]=>
+    string(9) "Gibraltar"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=gibraltar"
+    [3]=>
+    string(9) "Gibraltar"
+  }
+  [90]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Greece" href="https://www.amcharts.com/svg-maps/?map=greece">Greece</a></li>"
+    [1]=>
+    string(6) "Greece"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=greece"
+    [3]=>
+    string(6) "Greece"
+  }
+  [91]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Greenland" href="https://www.amcharts.com/svg-maps/?map=greenland">Greenland</a></li>"
+    [1]=>
+    string(9) "Greenland"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=greenland"
+    [3]=>
+    string(9) "Greenland"
+  }
+  [92]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Grenada" href="https://www.amcharts.com/svg-maps/?map=grenada">Grenada</a></li>"
+    [1]=>
+    string(7) "Grenada"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=grenada"
+    [3]=>
+    string(7) "Grenada"
+  }
+  [93]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Guadeloupe" href="https://www.amcharts.com/svg-maps/?map=guadeloupe">Guadeloupe</a></li>"
+    [1]=>
+    string(10) "Guadeloupe"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=guadeloupe"
+    [3]=>
+    string(10) "Guadeloupe"
+  }
+  [94]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Guam" href="https://www.amcharts.com/svg-maps/?map=guam">Guam</a></li>"
+    [1]=>
+    string(4) "Guam"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=guam"
+    [3]=>
+    string(4) "Guam"
+  }
+  [95]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Guatemala" href="https://www.amcharts.com/svg-maps/?map=guatemala">Guatemala</a></li>"
+    [1]=>
+    string(9) "Guatemala"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=guatemala"
+    [3]=>
+    string(9) "Guatemala"
+  }
+  [96]=>
+  array(4) {
+    [0]=>
+    string(110) "<li><a title="Guinea-Bissau" href="https://www.amcharts.com/svg-maps/?map=guineaBissau">Guinea-Bissau</a></li>"
+    [1]=>
+    string(13) "Guinea-Bissau"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=guineaBissau"
+    [3]=>
+    string(13) "Guinea-Bissau"
+  }
+  [97]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Guinea" href="https://www.amcharts.com/svg-maps/?map=guinea">Guinea</a></li>"
+    [1]=>
+    string(6) "Guinea"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=guinea"
+    [3]=>
+    string(6) "Guinea"
+  }
+  [98]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Guyana" href="https://www.amcharts.com/svg-maps/?map=guyana">Guyana</a></li>"
+    [1]=>
+    string(6) "Guyana"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=guyana"
+    [3]=>
+    string(6) "Guyana"
+  }
+  [99]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Haiti" href="https://www.amcharts.com/svg-maps/?map=haiti">Haiti</a></li>"
+    [1]=>
+    string(5) "Haiti"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=haiti"
+    [3]=>
+    string(5) "Haiti"
+  }
+  [100]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Honduras" href="https://www.amcharts.com/svg-maps/?map=honduras">Honduras</a></li>"
+    [1]=>
+    string(8) "Honduras"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=honduras"
+    [3]=>
+    string(8) "Honduras"
+  }
+  [101]=>
+  array(4) {
+    [0]=>
+    string(98) "<li><a title="Hong Kong" href="https://www.amcharts.com/svg-maps/?map=hongKong">Hong Kong</a></li>"
+    [1]=>
+    string(9) "Hong Kong"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=hongKong"
+    [3]=>
+    string(9) "Hong Kong"
+  }
+  [102]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Hungary" href="https://www.amcharts.com/svg-maps/?map=hungary">Hungary</a></li>"
+    [1]=>
+    string(7) "Hungary"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=hungary"
+    [3]=>
+    string(7) "Hungary"
+  }
+  [103]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Iceland" href="https://www.amcharts.com/svg-maps/?map=iceland">Iceland</a></li>"
+    [1]=>
+    string(7) "Iceland"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=iceland"
+    [3]=>
+    string(7) "Iceland"
+  }
+  [104]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="India" href="https://www.amcharts.com/svg-maps/?map=india">India</a></li>"
+    [1]=>
+    string(5) "India"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=india"
+    [3]=>
+    string(5) "India"
+  }
+  [105]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Indonesia" href="https://www.amcharts.com/svg-maps/?map=indonesia">Indonesia</a></li>"
+    [1]=>
+    string(9) "Indonesia"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=indonesia"
+    [3]=>
+    string(9) "Indonesia"
+  }
+  [106]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Iran" href="https://www.amcharts.com/svg-maps/?map=iran">Iran</a></li>"
+    [1]=>
+    string(4) "Iran"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=iran"
+    [3]=>
+    string(4) "Iran"
+  }
+  [107]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Iraq" href="https://www.amcharts.com/svg-maps/?map=iraq">Iraq</a></li>"
+    [1]=>
+    string(4) "Iraq"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=iraq"
+    [3]=>
+    string(4) "Iraq"
+  }
+  [108]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Ireland" href="https://www.amcharts.com/svg-maps/?map=ireland">Ireland</a></li>"
+    [1]=>
+    string(7) "Ireland"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=ireland"
+    [3]=>
+    string(7) "Ireland"
+  }
+  [109]=>
+  array(4) {
+    [0]=>
+    string(103) "<li><a title="Isle of Man" href="https://www.amcharts.com/svg-maps/?map=isleOfMan">Isle of Man</a></li>"
+    [1]=>
+    string(11) "Isle of Man"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=isleOfMan"
+    [3]=>
+    string(11) "Isle of Man"
+  }
+  [110]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Israel" href="https://www.amcharts.com/svg-maps/?map=israel">Israel</a></li>"
+    [1]=>
+    string(6) "Israel"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=israel"
+    [3]=>
+    string(6) "Israel"
+  }
+  [111]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="Israel-Palestine" href="https://www.amcharts.com/svg-maps/?map=israelPalestine">Israel-Palestine</a></li>"
+    [1]=>
+    string(16) "Israel-Palestine"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=israelPalestine"
+    [3]=>
+    string(16) "Israel-Palestine"
+  }
+  [112]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Italy" href="https://www.amcharts.com/svg-maps/?map=italy">Italy</a></li>"
+    [1]=>
+    string(5) "Italy"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=italy"
+    [3]=>
+    string(5) "Italy"
+  }
+  [113]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="Ivory Coast" href="https://www.amcharts.com/svg-maps/?map=ivoryCoast">Ivory Coast</a></li>"
+    [1]=>
+    string(11) "Ivory Coast"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=ivoryCoast"
+    [3]=>
+    string(11) "Ivory Coast"
+  }
+  [114]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Jamaica" href="https://www.amcharts.com/svg-maps/?map=jamaica">Jamaica</a></li>"
+    [1]=>
+    string(7) "Jamaica"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=jamaica"
+    [3]=>
+    string(7) "Jamaica"
+  }
+  [115]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Japan" href="https://www.amcharts.com/svg-maps/?map=japan">Japan</a></li>"
+    [1]=>
+    string(5) "Japan"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=japan"
+    [3]=>
+    string(5) "Japan"
+  }
+  [116]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Jersey" href="https://www.amcharts.com/svg-maps/?map=jersey">Jersey</a></li>"
+    [1]=>
+    string(6) "Jersey"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=jersey"
+    [3]=>
+    string(6) "Jersey"
+  }
+  [117]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Jordan" href="https://www.amcharts.com/svg-maps/?map=jordan">Jordan</a></li>"
+    [1]=>
+    string(6) "Jordan"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=jordan"
+    [3]=>
+    string(6) "Jordan"
+  }
+  [118]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Kazakhstan" href="https://www.amcharts.com/svg-maps/?map=kazakhstan">Kazakhstan</a></li>"
+    [1]=>
+    string(10) "Kazakhstan"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=kazakhstan"
+    [3]=>
+    string(10) "Kazakhstan"
+  }
+  [119]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Kenya" href="https://www.amcharts.com/svg-maps/?map=kenya">Kenya</a></li>"
+    [1]=>
+    string(5) "Kenya"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=kenya"
+    [3]=>
+    string(5) "Kenya"
+  }
+  [120]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Kiribati" href="https://www.amcharts.com/svg-maps/?map=kiribati">Kiribati</a></li>"
+    [1]=>
+    string(8) "Kiribati"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=kiribati"
+    [3]=>
+    string(8) "Kiribati"
+  }
+  [121]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Kosovo" href="https://www.amcharts.com/svg-maps/?map=kosovo">Kosovo</a></li>"
+    [1]=>
+    string(6) "Kosovo"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=kosovo"
+    [3]=>
+    string(6) "Kosovo"
+  }
+  [122]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Kuwait" href="https://www.amcharts.com/svg-maps/?map=kuwait">Kuwait</a></li>"
+    [1]=>
+    string(6) "Kuwait"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=kuwait"
+    [3]=>
+    string(6) "Kuwait"
+  }
+  [123]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Kyrgyzstan" href="https://www.amcharts.com/svg-maps/?map=kyrgyzstan">Kyrgyzstan</a></li>"
+    [1]=>
+    string(10) "Kyrgyzstan"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=kyrgyzstan"
+    [3]=>
+    string(10) "Kyrgyzstan"
+  }
+  [124]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Laos" href="https://www.amcharts.com/svg-maps/?map=laos">Laos</a></li>"
+    [1]=>
+    string(4) "Laos"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=laos"
+    [3]=>
+    string(4) "Laos"
+  }
+  [125]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Latvia" href="https://www.amcharts.com/svg-maps/?map=latvia">Latvia</a></li>"
+    [1]=>
+    string(6) "Latvia"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=latvia"
+    [3]=>
+    string(6) "Latvia"
+  }
+  [126]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Lebanon" href="https://www.amcharts.com/svg-maps/?map=lebanon">Lebanon</a></li>"
+    [1]=>
+    string(7) "Lebanon"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=lebanon"
+    [3]=>
+    string(7) "Lebanon"
+  }
+  [127]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Lesotho" href="https://www.amcharts.com/svg-maps/?map=lesotho">Lesotho</a></li>"
+    [1]=>
+    string(7) "Lesotho"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=lesotho"
+    [3]=>
+    string(7) "Lesotho"
+  }
+  [128]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Liberia" href="https://www.amcharts.com/svg-maps/?map=liberia">Liberia</a></li>"
+    [1]=>
+    string(7) "Liberia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=liberia"
+    [3]=>
+    string(7) "Liberia"
+  }
+  [129]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Libya" href="https://www.amcharts.com/svg-maps/?map=libya">Libya</a></li>"
+    [1]=>
+    string(5) "Libya"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=libya"
+    [3]=>
+    string(5) "Libya"
+  }
+  [130]=>
+  array(4) {
+    [0]=>
+    string(111) "<li><a title="Liechtenstein" href="https://www.amcharts.com/svg-maps/?map=liechtenstein">Liechtenstein</a></li>"
+    [1]=>
+    string(13) "Liechtenstein"
+    [2]=>
+    string(52) "https://www.amcharts.com/svg-maps/?map=liechtenstein"
+    [3]=>
+    string(13) "Liechtenstein"
+  }
+  [131]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Lithuania" href="https://www.amcharts.com/svg-maps/?map=lithuania">Lithuania</a></li>"
+    [1]=>
+    string(9) "Lithuania"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=lithuania"
+    [3]=>
+    string(9) "Lithuania"
+  }
+  [132]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Luxembourg" href="https://www.amcharts.com/svg-maps/?map=luxembourg">Luxembourg</a></li>"
+    [1]=>
+    string(10) "Luxembourg"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=luxembourg"
+    [3]=>
+    string(10) "Luxembourg"
+  }
+  [133]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Macao" href="https://www.amcharts.com/svg-maps/?map=macao">Macao</a></li>"
+    [1]=>
+    string(5) "Macao"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=macao"
+    [3]=>
+    string(5) "Macao"
+  }
+  [134]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Macedonia" href="https://www.amcharts.com/svg-maps/?map=macedonia">Macedonia</a></li>"
+    [1]=>
+    string(9) "Macedonia"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=macedonia"
+    [3]=>
+    string(9) "Macedonia"
+  }
+  [135]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="Magdagascar" href="https://www.amcharts.com/svg-maps/?map=madagascar">Magdagascar</a></li>"
+    [1]=>
+    string(11) "Magdagascar"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=madagascar"
+    [3]=>
+    string(11) "Magdagascar"
+  }
+  [136]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Malawi" href="https://www.amcharts.com/svg-maps/?map=malawi">Malawi</a></li>"
+    [1]=>
+    string(6) "Malawi"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=malawi"
+    [3]=>
+    string(6) "Malawi"
+  }
+  [137]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Malaysia" href="https://www.amcharts.com/svg-maps/?map=malaysia">Malaysia</a></li>"
+    [1]=>
+    string(8) "Malaysia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=malaysia"
+    [3]=>
+    string(8) "Malaysia"
+  }
+  [138]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Maldives" href="https://www.amcharts.com/svg-maps/?map=maldives">Maldives</a></li>"
+    [1]=>
+    string(8) "Maldives"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=maldives"
+    [3]=>
+    string(8) "Maldives"
+  }
+  [139]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Mali" href="https://www.amcharts.com/svg-maps/?map=mali">Mali</a></li>"
+    [1]=>
+    string(4) "Mali"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=mali"
+    [3]=>
+    string(4) "Mali"
+  }
+  [140]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Malta" href="https://www.amcharts.com/svg-maps/?map=malta">Malta</a></li>"
+    [1]=>
+    string(5) "Malta"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=malta"
+    [3]=>
+    string(5) "Malta"
+  }
+  [141]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="Marshall Islands" href="https://www.amcharts.com/svg-maps/?map=marshallIslands">Marshall Islands</a></li>"
+    [1]=>
+    string(16) "Marshall Islands"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=marshallIslands"
+    [3]=>
+    string(16) "Marshall Islands"
+  }
+  [142]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Martinique" href="https://www.amcharts.com/svg-maps/?map=martinique">Martinique</a></li>"
+    [1]=>
+    string(10) "Martinique"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=martinique"
+    [3]=>
+    string(10) "Martinique"
+  }
+  [143]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Mauritania" href="https://www.amcharts.com/svg-maps/?map=mauritania">Mauritania</a></li>"
+    [1]=>
+    string(10) "Mauritania"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=mauritania"
+    [3]=>
+    string(10) "Mauritania"
+  }
+  [144]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Mauritius" href="https://www.amcharts.com/svg-maps/?map=mauritius">Mauritius</a></li>"
+    [1]=>
+    string(9) "Mauritius"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=mauritius"
+    [3]=>
+    string(9) "Mauritius"
+  }
+  [145]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Mayotte" href="https://www.amcharts.com/svg-maps/?map=mayotte">Mayotte</a></li>"
+    [1]=>
+    string(7) "Mayotte"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=mayotte"
+    [3]=>
+    string(7) "Mayotte"
+  }
+  [146]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Mexico" href="https://www.amcharts.com/svg-maps/?map=mexico">Mexico</a></li>"
+    [1]=>
+    string(6) "Mexico"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=mexico"
+    [3]=>
+    string(6) "Mexico"
+  }
+  [147]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Micronesia" href="https://www.amcharts.com/svg-maps/?map=micronesia">Micronesia</a></li>"
+    [1]=>
+    string(10) "Micronesia"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=micronesia"
+    [3]=>
+    string(10) "Micronesia"
+  }
+  [148]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Moldova" href="https://www.amcharts.com/svg-maps/?map=moldova">Moldova</a></li>"
+    [1]=>
+    string(7) "Moldova"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=moldova"
+    [3]=>
+    string(7) "Moldova"
+  }
+  [149]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Monaco" href="https://www.amcharts.com/svg-maps/?map=monaco">Monaco</a></li>"
+    [1]=>
+    string(6) "Monaco"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=monaco"
+    [3]=>
+    string(6) "Monaco"
+  }
+  [150]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Mongolia" href="https://www.amcharts.com/svg-maps/?map=mongolia">Mongolia</a></li>"
+    [1]=>
+    string(8) "Mongolia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=mongolia"
+    [3]=>
+    string(8) "Mongolia"
+  }
+  [151]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Montenegro" href="https://www.amcharts.com/svg-maps/?map=montenegro">Montenegro</a></li>"
+    [1]=>
+    string(10) "Montenegro"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=montenegro"
+    [3]=>
+    string(10) "Montenegro"
+  }
+  [152]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Montserrat" href="https://www.amcharts.com/svg-maps/?map=montserrat">Montserrat</a></li>"
+    [1]=>
+    string(10) "Montserrat"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=montserrat"
+    [3]=>
+    string(10) "Montserrat"
+  }
+  [153]=>
+  array(4) {
+    [0]=>
+    string(91) "<li><a title="Moroco" href="https://www.amcharts.com/svg-maps/?map=morocco">Moroco</a></li>"
+    [1]=>
+    string(6) "Moroco"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=morocco"
+    [3]=>
+    string(6) "Moroco"
+  }
+  [154]=>
+  array(4) {
+    [0]=>
+    string(136) "<li><a title="Morocco-Western Sahara" href="https://www.amcharts.com/svg-maps/?map=moroccoWesternSahara">Morocco-Western Sahara</a></li>"
+    [1]=>
+    string(22) "Morocco-Western Sahara"
+    [2]=>
+    string(59) "https://www.amcharts.com/svg-maps/?map=moroccoWesternSahara"
+    [3]=>
+    string(22) "Morocco-Western Sahara"
+  }
+  [155]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Mozambique" href="https://www.amcharts.com/svg-maps/?map=mozambique">Mozambique</a></li>"
+    [1]=>
+    string(10) "Mozambique"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=mozambique"
+    [3]=>
+    string(10) "Mozambique"
+  }
+  [156]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Myanmar" href="https://www.amcharts.com/svg-maps/?map=myanmar">Myanmar</a></li>"
+    [1]=>
+    string(7) "Myanmar"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=myanmar"
+    [3]=>
+    string(7) "Myanmar"
+  }
+  [157]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Namibia" href="https://www.amcharts.com/svg-maps/?map=namibia">Namibia</a></li>"
+    [1]=>
+    string(7) "Namibia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=namibia"
+    [3]=>
+    string(7) "Namibia"
+  }
+  [158]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Nauru" href="https://www.amcharts.com/svg-maps/?map=nauru">Nauru</a></li>"
+    [1]=>
+    string(5) "Nauru"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=nauru"
+    [3]=>
+    string(5) "Nauru"
+  }
+  [159]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Nepal" href="https://www.amcharts.com/svg-maps/?map=nepal">Nepal</a></li>"
+    [1]=>
+    string(5) "Nepal"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=nepal"
+    [3]=>
+    string(5) "Nepal"
+  }
+  [160]=>
+  array(4) {
+    [0]=>
+    string(105) "<li><a title="Netherlands" href="https://www.amcharts.com/svg-maps/?map=netherlands">Netherlands</a></li>"
+    [1]=>
+    string(11) "Netherlands"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=netherlands"
+    [3]=>
+    string(11) "Netherlands"
+  }
+  [161]=>
+  array(4) {
+    [0]=>
+    string(110) "<li><a title="New Caledonia" href="https://www.amcharts.com/svg-maps/?map=newCaledonia">New Caledonia</a></li>"
+    [1]=>
+    string(13) "New Caledonia"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=newCaledonia"
+    [3]=>
+    string(13) "New Caledonia"
+  }
+  [162]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="New Zealand" href="https://www.amcharts.com/svg-maps/?map=newZealand">New Zealand</a></li>"
+    [1]=>
+    string(11) "New Zealand"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=newZealand"
+    [3]=>
+    string(11) "New Zealand"
+  }
+  [163]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Nicaragua" href="https://www.amcharts.com/svg-maps/?map=nicaragua">Nicaragua</a></li>"
+    [1]=>
+    string(9) "Nicaragua"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=nicaragua"
+    [3]=>
+    string(9) "Nicaragua"
+  }
+  [164]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Niger" href="https://www.amcharts.com/svg-maps/?map=niger">Niger</a></li>"
+    [1]=>
+    string(5) "Niger"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=niger"
+    [3]=>
+    string(5) "Niger"
+  }
+  [165]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Nigeria" href="https://www.amcharts.com/svg-maps/?map=nigeria">Nigeria</a></li>"
+    [1]=>
+    string(7) "Nigeria"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=nigeria"
+    [3]=>
+    string(7) "Nigeria"
+  }
+  [166]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Niue" href="https://www.amcharts.com/svg-maps/?map=niue">Niue</a></li>"
+    [1]=>
+    string(4) "Niue"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=niue"
+    [3]=>
+    string(4) "Niue"
+  }
+  [167]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="North Korea" href="https://www.amcharts.com/svg-maps/?map=northKorea">North Korea</a></li>"
+    [1]=>
+    string(11) "North Korea"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=northKorea"
+    [3]=>
+    string(11) "North Korea"
+  }
+  [168]=>
+  array(4) {
+    [0]=>
+    string(142) "<li><a title="Northern Mariana Islands" href="https://www.amcharts.com/svg-maps/?map=northernMarianaIslands">Northern Mariana Islands</a></li>"
+    [1]=>
+    string(24) "Northern Mariana Islands"
+    [2]=>
+    string(61) "https://www.amcharts.com/svg-maps/?map=northernMarianaIslands"
+    [3]=>
+    string(24) "Northern Mariana Islands"
+  }
+  [169]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Norway" href="https://www.amcharts.com/svg-maps/?map=norway">Norway</a></li>"
+    [1]=>
+    string(6) "Norway"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=norway"
+    [3]=>
+    string(6) "Norway"
+  }
+  [170]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Oman" href="https://www.amcharts.com/svg-maps/?map=oman">Oman</a></li>"
+    [1]=>
+    string(4) "Oman"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=oman"
+    [3]=>
+    string(4) "Oman"
+  }
+  [171]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Pakistan" href="https://www.amcharts.com/svg-maps/?map=pakistan">Pakistan</a></li>"
+    [1]=>
+    string(8) "Pakistan"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=pakistan"
+    [3]=>
+    string(8) "Pakistan"
+  }
+  [172]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Palau" href="https://www.amcharts.com/svg-maps/?map=palau">Palau</a></li>"
+    [1]=>
+    string(5) "Palau"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=palau"
+    [3]=>
+    string(5) "Palau"
+  }
+  [173]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Palestine" href="https://www.amcharts.com/svg-maps/?map=palestine">Palestine</a></li>"
+    [1]=>
+    string(9) "Palestine"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=palestine"
+    [3]=>
+    string(9) "Palestine"
+  }
+  [174]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Panama" href="https://www.amcharts.com/svg-maps/?map=panama">Panama</a></li>"
+    [1]=>
+    string(6) "Panama"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=panama"
+    [3]=>
+    string(6) "Panama"
+  }
+  [175]=>
+  array(4) {
+    [0]=>
+    string(118) "<li><a title="Papua New Guinea" href="https://www.amcharts.com/svg-maps/?map=papuaNewGuinea">Papua New Guinea</a></li>"
+    [1]=>
+    string(16) "Papua New Guinea"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=papuaNewGuinea"
+    [3]=>
+    string(16) "Papua New Guinea"
+  }
+  [176]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Paraguay" href="https://www.amcharts.com/svg-maps/?map=paraguay">Paraguay</a></li>"
+    [1]=>
+    string(8) "Paraguay"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=paraguay"
+    [3]=>
+    string(8) "Paraguay"
+  }
+  [177]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Peru" href="https://www.amcharts.com/svg-maps/?map=peru">Peru</a></li>"
+    [1]=>
+    string(4) "Peru"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=peru"
+    [3]=>
+    string(4) "Peru"
+  }
+  [178]=>
+  array(4) {
+    [0]=>
+    string(105) "<li><a title="Philippines" href="https://www.amcharts.com/svg-maps/?map=philippines">Philippines</a></li>"
+    [1]=>
+    string(11) "Philippines"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=philippines"
+    [3]=>
+    string(11) "Philippines"
+  }
+  [179]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="Pitcairn Islands" href="https://www.amcharts.com/svg-maps/?map=pitcairnIslands">Pitcairn Islands</a></li>"
+    [1]=>
+    string(16) "Pitcairn Islands"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=pitcairnIslands"
+    [3]=>
+    string(16) "Pitcairn Islands"
+  }
+  [180]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Poland" href="https://www.amcharts.com/svg-maps/?map=poland">Poland</a></li>"
+    [1]=>
+    string(6) "Poland"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=poland"
+    [3]=>
+    string(6) "Poland"
+  }
+  [181]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Portugal" href="https://www.amcharts.com/svg-maps/?map=portugal">Portugal</a></li>"
+    [1]=>
+    string(8) "Portugal"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=portugal"
+    [3]=>
+    string(8) "Portugal"
+  }
+  [182]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="Portugal Regions" href="https://www.amcharts.com/svg-maps/?map=portugalRegions">Portugal Regions</a></li>"
+    [1]=>
+    string(16) "Portugal Regions"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=portugalRegions"
+    [3]=>
+    string(16) "Portugal Regions"
+  }
+  [183]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="Puerto Rico" href="https://www.amcharts.com/svg-maps/?map=puertoRico">Puerto Rico</a></li>"
+    [1]=>
+    string(11) "Puerto Rico"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=puertoRico"
+    [3]=>
+    string(11) "Puerto Rico"
+  }
+  [184]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Qatar" href="https://www.amcharts.com/svg-maps/?map=qatar">Qatar</a></li>"
+    [1]=>
+    string(5) "Qatar"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=qatar"
+    [3]=>
+    string(5) "Qatar"
+  }
+  [185]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Reunion" href="https://www.amcharts.com/svg-maps/?map=reunion">Reunion</a></li>"
+    [1]=>
+    string(7) "Reunion"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=reunion"
+    [3]=>
+    string(7) "Reunion"
+  }
+  [186]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Romania" href="https://www.amcharts.com/svg-maps/?map=romania">Romania</a></li>"
+    [1]=>
+    string(7) "Romania"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=romania"
+    [3]=>
+    string(7) "Romania"
+  }
+  [187]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Russia" href="https://www.amcharts.com/svg-maps/?map=russia">Russia</a></li>"
+    [1]=>
+    string(6) "Russia"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=russia"
+    [3]=>
+    string(6) "Russia"
+  }
+  [188]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Rwanda" href="https://www.amcharts.com/svg-maps/?map=rwanda">Rwanda</a></li>"
+    [1]=>
+    string(6) "Rwanda"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=rwanda"
+    [3]=>
+    string(6) "Rwanda"
+  }
+  [189]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Saint Martin" href="https://www.amcharts.com/svg-maps/?map=saintMartin">Saint Martin</a></li>"
+    [1]=>
+    string(12) "Saint Martin"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=saintMartin"
+    [3]=>
+    string(12) "Saint Martin"
+  }
+  [190]=>
+  array(4) {
+    [0]=>
+    string(141) "<li><a title="Saint Pierre and Miquelon" href="https://www.amcharts.com/svg-maps/?map=saintPierreMiquelon">Saint Pierre and Miquelon</a></li>"
+    [1]=>
+    string(25) "Saint Pierre and Miquelon"
+    [2]=>
+    string(58) "https://www.amcharts.com/svg-maps/?map=saintPierreMiquelon"
+    [3]=>
+    string(25) "Saint Pierre and Miquelon"
+  }
+  [191]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Samoa" href="https://www.amcharts.com/svg-maps/?map=samoa">Samoa</a></li>"
+    [1]=>
+    string(5) "Samoa"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=samoa"
+    [3]=>
+    string(5) "Samoa"
+  }
+  [192]=>
+  array(4) {
+    [0]=>
+    string(101) "<li><a title="San Marino" href="https://www.amcharts.com/svg-maps/?map=sanMarino">San Marino</a></li>"
+    [1]=>
+    string(10) "San Marino"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=sanMarino"
+    [3]=>
+    string(10) "San Marino"
+  }
+  [193]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Saudi Arabia" href="https://www.amcharts.com/svg-maps/?map=saudiArabia">Saudi Arabia</a></li>"
+    [1]=>
+    string(12) "Saudi Arabia"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=saudiArabia"
+    [3]=>
+    string(12) "Saudi Arabia"
+  }
+  [194]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Senegal" href="https://www.amcharts.com/svg-maps/?map=senegal">Senegal</a></li>"
+    [1]=>
+    string(7) "Senegal"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=senegal"
+    [3]=>
+    string(7) "Senegal"
+  }
+  [195]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Serbia" href="https://www.amcharts.com/svg-maps/?map=serbia">Serbia</a></li>"
+    [1]=>
+    string(6) "Serbia"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=serbia"
+    [3]=>
+    string(6) "Serbia"
+  }
+  [196]=>
+  array(4) {
+    [0]=>
+    string(118) "<li><a title="Serbia No Kosovo" href="https://www.amcharts.com/svg-maps/?map=serbiaNoKosovo">Serbia No Kosovo</a></li>"
+    [1]=>
+    string(16) "Serbia No Kosovo"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=serbiaNoKosovo"
+    [3]=>
+    string(16) "Serbia No Kosovo"
+  }
+  [197]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Seychelles" href="https://www.amcharts.com/svg-maps/?map=seychelles">Seychelles</a></li>"
+    [1]=>
+    string(10) "Seychelles"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=seychelles"
+    [3]=>
+    string(10) "Seychelles"
+  }
+  [198]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Sierra Leone" href="https://www.amcharts.com/svg-maps/?map=sierraLeone">Sierra Leone</a></li>"
+    [1]=>
+    string(12) "Sierra Leone"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=sierraLeone"
+    [3]=>
+    string(12) "Sierra Leone"
+  }
+  [199]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Singapore" href="https://www.amcharts.com/svg-maps/?map=singapore">Singapore</a></li>"
+    [1]=>
+    string(9) "Singapore"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=singapore"
+    [3]=>
+    string(9) "Singapore"
+  }
+  [200]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Sint Maarten" href="https://www.amcharts.com/svg-maps/?map=sintMaarten">Sint Maarten</a></li>"
+    [1]=>
+    string(12) "Sint Maarten"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=sintMaarten"
+    [3]=>
+    string(12) "Sint Maarten"
+  }
+  [201]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Slovakia" href="https://www.amcharts.com/svg-maps/?map=slovakia">Slovakia</a></li>"
+    [1]=>
+    string(8) "Slovakia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=slovakia"
+    [3]=>
+    string(8) "Slovakia"
+  }
+  [202]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Slovenia" href="https://www.amcharts.com/svg-maps/?map=slovenia">Slovenia</a></li>"
+    [1]=>
+    string(8) "Slovenia"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=slovenia"
+    [3]=>
+    string(8) "Slovenia"
+  }
+  [203]=>
+  array(4) {
+    [0]=>
+    string(116) "<li><a title="Solomon Islands" href="https://www.amcharts.com/svg-maps/?map=solomonIslands">Solomon Islands</a></li>"
+    [1]=>
+    string(15) "Solomon Islands"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=solomonIslands"
+    [3]=>
+    string(15) "Solomon Islands"
+  }
+  [204]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Somalia" href="https://www.amcharts.com/svg-maps/?map=somalia">Somalia</a></li>"
+    [1]=>
+    string(7) "Somalia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=somalia"
+    [3]=>
+    string(7) "Somalia"
+  }
+  [205]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="South Africa" href="https://www.amcharts.com/svg-maps/?map=southAfrica">South Africa</a></li>"
+    [1]=>
+    string(12) "South Africa"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=southAfrica"
+    [3]=>
+    string(12) "South Africa"
+  }
+  [206]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="South Korea" href="https://www.amcharts.com/svg-maps/?map=southKorea">South Korea</a></li>"
+    [1]=>
+    string(11) "South Korea"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=southKorea"
+    [3]=>
+    string(11) "South Korea"
+  }
+  [207]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="South Sudan" href="https://www.amcharts.com/svg-maps/?map=southSudan">South Sudan</a></li>"
+    [1]=>
+    string(11) "South Sudan"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=southSudan"
+    [3]=>
+    string(11) "South Sudan"
+  }
+  [208]=>
+  array(4) {
+    [0]=>
+    string(106) "<li><a title="Spain - Custom" href="https://www.amcharts.com/svg-maps/?map=spain2">Spain - Custom</a></li>"
+    [1]=>
+    string(14) "Spain - Custom"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=spain2"
+    [3]=>
+    string(14) "Spain - Custom"
+  }
+  [209]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Spain" href="https://www.amcharts.com/svg-maps/?map=spain">Spain</a></li>"
+    [1]=>
+    string(5) "Spain"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=spain"
+    [3]=>
+    string(5) "Spain"
+  }
+  [210]=>
+  array(4) {
+    [0]=>
+    string(116) "<li><a title="Spain Provinces" href="https://www.amcharts.com/svg-maps/?map=spainProvinces">Spain Provinces</a></li>"
+    [1]=>
+    string(15) "Spain Provinces"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=spainProvinces"
+    [3]=>
+    string(15) "Spain Provinces"
+  }
+  [211]=>
+  array(4) {
+    [0]=>
+    string(98) "<li><a title="Sri Lanka" href="https://www.amcharts.com/svg-maps/?map=sriLanka">Sri Lanka</a></li>"
+    [1]=>
+    string(9) "Sri Lanka"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=sriLanka"
+    [3]=>
+    string(9) "Sri Lanka"
+  }
+  [212]=>
+  array(4) {
+    [0]=>
+    string(98) "<li><a title="St Helena" href="https://www.amcharts.com/svg-maps/?map=stHelena">St Helena</a></li>"
+    [1]=>
+    string(9) "St Helena"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=stHelena"
+    [3]=>
+    string(9) "St Helena"
+  }
+  [213]=>
+  array(4) {
+    [0]=>
+    string(122) "<li><a title="St. Kitts and Nevis" href="https://www.amcharts.com/svg-maps/?map=stKittsNevis">St. Kitts and Nevis</a></li>"
+    [1]=>
+    string(19) "St. Kitts and Nevis"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=stKittsNevis"
+    [3]=>
+    string(19) "St. Kitts and Nevis"
+  }
+  [214]=>
+  array(4) {
+    [0]=>
+    string(97) "<li><a title="St. Lucia" href="https://www.amcharts.com/svg-maps/?map=stLucia">St. Lucia</a></li>"
+    [1]=>
+    string(9) "St. Lucia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=stLucia"
+    [3]=>
+    string(9) "St. Lucia"
+  }
+  [215]=>
+  array(4) {
+    [0]=>
+    string(145) "<li><a title="Saint Vincent and the Grenadines" href="https://www.amcharts.com/svg-maps/?map=stVincent">Saint Vincent and the Grenadines</a></li>"
+    [1]=>
+    string(32) "Saint Vincent and the Grenadines"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=stVincent"
+    [3]=>
+    string(32) "Saint Vincent and the Grenadines"
+  }
+  [216]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Sudan" href="https://www.amcharts.com/svg-maps/?map=sudan">Sudan</a></li>"
+    [1]=>
+    string(5) "Sudan"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=sudan"
+    [3]=>
+    string(5) "Sudan"
+  }
+  [217]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Suriname" href="https://www.amcharts.com/svg-maps/?map=suriname">Suriname</a></li>"
+    [1]=>
+    string(8) "Suriname"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=suriname"
+    [3]=>
+    string(8) "Suriname"
+  }
+  [218]=>
+  array(4) {
+    [0]=>
+    string(132) "<li><a title="Svalbard and Jan Mayen" href="https://www.amcharts.com/svg-maps/?map=svalbardJanMayen">Svalbard and Jan Mayen</a></li>"
+    [1]=>
+    string(22) "Svalbard and Jan Mayen"
+    [2]=>
+    string(55) "https://www.amcharts.com/svg-maps/?map=svalbardJanMayen"
+    [3]=>
+    string(22) "Svalbard and Jan Mayen"
+  }
+  [219]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Swaziland" href="https://www.amcharts.com/svg-maps/?map=swaziland">Swaziland</a></li>"
+    [1]=>
+    string(9) "Swaziland"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=swaziland"
+    [3]=>
+    string(9) "Swaziland"
+  }
+  [220]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Sweden" href="https://www.amcharts.com/svg-maps/?map=sweden">Sweden</a></li>"
+    [1]=>
+    string(6) "Sweden"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=sweden"
+    [3]=>
+    string(6) "Sweden"
+  }
+  [221]=>
+  array(4) {
+    [0]=>
+    string(105) "<li><a title="Switzerland" href="https://www.amcharts.com/svg-maps/?map=switzerland">Switzerland</a></li>"
+    [1]=>
+    string(11) "Switzerland"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=switzerland"
+    [3]=>
+    string(11) "Switzerland"
+  }
+  [222]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Syria" href="https://www.amcharts.com/svg-maps/?map=syria">Syria</a></li>"
+    [1]=>
+    string(5) "Syria"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=syria"
+    [3]=>
+    string(5) "Syria"
+  }
+  [223]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Taiwan" href="https://www.amcharts.com/svg-maps/?map=taiwan">Taiwan</a></li>"
+    [1]=>
+    string(6) "Taiwan"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=taiwan"
+    [3]=>
+    string(6) "Taiwan"
+  }
+  [224]=>
+  array(4) {
+    [0]=>
+    string(102) "<li><a title="Tajikistan" href="https://www.amcharts.com/svg-maps/?map=tajikistan">Tajikistan</a></li>"
+    [1]=>
+    string(10) "Tajikistan"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=tajikistan"
+    [3]=>
+    string(10) "Tajikistan"
+  }
+  [225]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Tanzania" href="https://www.amcharts.com/svg-maps/?map=tanzania">Tanzania</a></li>"
+    [1]=>
+    string(8) "Tanzania"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=tanzania"
+    [3]=>
+    string(8) "Tanzania"
+  }
+  [226]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Thailand" href="https://www.amcharts.com/svg-maps/?map=thailand">Thailand</a></li>"
+    [1]=>
+    string(8) "Thailand"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=thailand"
+    [3]=>
+    string(8) "Thailand"
+  }
+  [227]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Tibet" href="https://www.amcharts.com/svg-maps/?map=tibet">Tibet</a></li>"
+    [1]=>
+    string(5) "Tibet"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=tibet"
+    [3]=>
+    string(5) "Tibet"
+  }
+  [228]=>
+  array(4) {
+    [0]=>
+    string(84) "<li><a title="Togo" href="https://www.amcharts.com/svg-maps/?map=togo">Togo</a></li>"
+    [1]=>
+    string(4) "Togo"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=togo"
+    [3]=>
+    string(4) "Togo"
+  }
+  [229]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Tokelau" href="https://www.amcharts.com/svg-maps/?map=tokelau">Tokelau</a></li>"
+    [1]=>
+    string(7) "Tokelau"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=tokelau"
+    [3]=>
+    string(7) "Tokelau"
+  }
+  [230]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Tonga" href="https://www.amcharts.com/svg-maps/?map=tonga">Tonga</a></li>"
+    [1]=>
+    string(5) "Tonga"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=tonga"
+    [3]=>
+    string(5) "Tonga"
+  }
+  [231]=>
+  array(4) {
+    [0]=>
+    string(127) "<li><a title="Trinidad and Tobago" href="https://www.amcharts.com/svg-maps/?map=trinidadAndTobago">Trinidad and Tobago</a></li>"
+    [1]=>
+    string(19) "Trinidad and Tobago"
+    [2]=>
+    string(56) "https://www.amcharts.com/svg-maps/?map=trinidadAndTobago"
+    [3]=>
+    string(19) "Trinidad and Tobago"
+  }
+  [232]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Tunisia" href="https://www.amcharts.com/svg-maps/?map=tunisia">Tunisia</a></li>"
+    [1]=>
+    string(7) "Tunisia"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=tunisia"
+    [3]=>
+    string(7) "Tunisia"
+  }
+  [233]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Turkey" href="https://www.amcharts.com/svg-maps/?map=turkey">Turkey</a></li>"
+    [1]=>
+    string(6) "Turkey"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=turkey"
+    [3]=>
+    string(6) "Turkey"
+  }
+  [234]=>
+  array(4) {
+    [0]=>
+    string(108) "<li><a title="Turkmenistan" href="https://www.amcharts.com/svg-maps/?map=turkmenistan">Turkmenistan</a></li>"
+    [1]=>
+    string(12) "Turkmenistan"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=turkmenistan"
+    [3]=>
+    string(12) "Turkmenistan"
+  }
+  [235]=>
+  array(4) {
+    [0]=>
+    string(138) "<li><a title="Turks and Caicos Islands" href="https://www.amcharts.com/svg-maps/?map=turksCaicosIslands">Turks and Caicos Islands</a></li>"
+    [1]=>
+    string(24) "Turks and Caicos Islands"
+    [2]=>
+    string(57) "https://www.amcharts.com/svg-maps/?map=turksCaicosIslands"
+    [3]=>
+    string(24) "Turks and Caicos Islands"
+  }
+  [236]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Tuvalu" href="https://www.amcharts.com/svg-maps/?map=tuvalu">Tuvalu</a></li>"
+    [1]=>
+    string(6) "Tuvalu"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=tuvalu"
+    [3]=>
+    string(6) "Tuvalu"
+  }
+  [237]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Uganda" href="https://www.amcharts.com/svg-maps/?map=uganda">Uganda</a></li>"
+    [1]=>
+    string(6) "Uganda"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=uganda"
+    [3]=>
+    string(6) "Uganda"
+  }
+  [238]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="UK Counties" href="https://www.amcharts.com/svg-maps/?map=ukCounties">UK Counties</a></li>"
+    [1]=>
+    string(11) "UK Counties"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=ukCounties"
+    [3]=>
+    string(11) "UK Counties"
+  }
+  [239]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Ukraine" href="https://www.amcharts.com/svg-maps/?map=ukraine">Ukraine</a></li>"
+    [1]=>
+    string(7) "Ukraine"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=ukraine"
+    [3]=>
+    string(7) "Ukraine"
+  }
+  [240]=>
+  array(4) {
+    [0]=>
+    string(130) "<li><a title="United Arab Emirates" href="https://www.amcharts.com/svg-maps/?map=unitedArabEmirates">United Arab Emirates</a></li>"
+    [1]=>
+    string(20) "United Arab Emirates"
+    [2]=>
+    string(57) "https://www.amcharts.com/svg-maps/?map=unitedArabEmirates"
+    [3]=>
+    string(20) "United Arab Emirates"
+  }
+  [241]=>
+  array(4) {
+    [0]=>
+    string(113) "<li><a title="United Kingdom" href="https://www.amcharts.com/svg-maps/?map=unitedKingdom">United Kingdom</a></li>"
+    [1]=>
+    string(14) "United Kingdom"
+    [2]=>
+    string(52) "https://www.amcharts.com/svg-maps/?map=unitedKingdom"
+    [3]=>
+    string(14) "United Kingdom"
+  }
+  [242]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Uruguay" href="https://www.amcharts.com/svg-maps/?map=uruguay">Uruguay</a></li>"
+    [1]=>
+    string(7) "Uruguay"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=uruguay"
+    [3]=>
+    string(7) "Uruguay"
+  }
+  [243]=>
+  array(4) {
+    [0]=>
+    string(125) "<li><a title="U.S. Virgin Islands" href="https://www.amcharts.com/svg-maps/?map=usVirginIslands">U.S. Virgin Islands</a></li>"
+    [1]=>
+    string(19) "U.S. Virgin Islands"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=usVirginIslands"
+    [3]=>
+    string(19) "U.S. Virgin Islands"
+  }
+  [244]=>
+  array(4) {
+    [0]=>
+    string(142) "<li><a title="USA: Mainland Mercator-calibrated" href="https://www.amcharts.com/svg-maps/?map=usa2">USA: Mainland Mercator-calibrated</a></li>"
+    [1]=>
+    string(33) "USA: Mainland Mercator-calibrated"
+    [2]=>
+    string(43) "https://www.amcharts.com/svg-maps/?map=usa2"
+    [3]=>
+    string(33) "USA: Mainland Mercator-calibrated"
+  }
+  [245]=>
+  array(4) {
+    [0]=>
+    string(81) "<li><a title="USA" href="https://www.amcharts.com/svg-maps/?map=usa">USA</a></li>"
+    [1]=>
+    string(3) "USA"
+    [2]=>
+    string(42) "https://www.amcharts.com/svg-maps/?map=usa"
+    [3]=>
+    string(3) "USA"
+  }
+  [246]=>
+  array(4) {
+    [0]=>
+    string(131) "<li><a title="USA: Mercator-calibrated" href="https://www.amcharts.com/svg-maps/?map=usaMercator">USA: Mercator-calibrated</a></li>"
+    [1]=>
+    string(24) "USA: Mercator-calibrated"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=usaMercator"
+    [3]=>
+    string(24) "USA: Mercator-calibrated"
+  }
+  [247]=>
+  array(4) {
+    [0]=>
+    string(161) "<li><a title="USA Territories &amp; Associated States" href="https://www.amcharts.com/svg-maps/?map=usaTerritories2">USA Territories & Associated States</a></li>"
+    [1]=>
+    string(39) "USA Territories &amp; Associated States"
+    [2]=>
+    string(54) "https://www.amcharts.com/svg-maps/?map=usaTerritories2"
+    [3]=>
+    string(35) "USA Territories & Associated States"
+  }
+  [248]=>
+  array(4) {
+    [0]=>
+    string(116) "<li><a title="USA Territories" href="https://www.amcharts.com/svg-maps/?map=usaTerritories">USA Territories</a></li>"
+    [1]=>
+    string(15) "USA Territories"
+    [2]=>
+    string(53) "https://www.amcharts.com/svg-maps/?map=usaTerritories"
+    [3]=>
+    string(15) "USA Territories"
+  }
+  [249]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="Uzebekistan" href="https://www.amcharts.com/svg-maps/?map=uzbekistan">Uzebekistan</a></li>"
+    [1]=>
+    string(11) "Uzebekistan"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=uzbekistan"
+    [3]=>
+    string(11) "Uzebekistan"
+  }
+  [250]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Vanuatu" href="https://www.amcharts.com/svg-maps/?map=vanuatu">Vanuatu</a></li>"
+    [1]=>
+    string(7) "Vanuatu"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=vanuatu"
+    [3]=>
+    string(7) "Vanuatu"
+  }
+  [251]=>
+  array(4) {
+    [0]=>
+    string(107) "<li><a title="Vatican City" href="https://www.amcharts.com/svg-maps/?map=vaticanCity">Vatican City</a></li>"
+    [1]=>
+    string(12) "Vatican City"
+    [2]=>
+    string(50) "https://www.amcharts.com/svg-maps/?map=vaticanCity"
+    [3]=>
+    string(12) "Vatican City"
+  }
+  [252]=>
+  array(4) {
+    [0]=>
+    string(99) "<li><a title="Venezuela" href="https://www.amcharts.com/svg-maps/?map=venezuela">Venezuela</a></li>"
+    [1]=>
+    string(9) "Venezuela"
+    [2]=>
+    string(48) "https://www.amcharts.com/svg-maps/?map=venezuela"
+    [3]=>
+    string(9) "Venezuela"
+  }
+  [253]=>
+  array(4) {
+    [0]=>
+    string(93) "<li><a title="Vietnam" href="https://www.amcharts.com/svg-maps/?map=vietnam">Vietnam</a></li>"
+    [1]=>
+    string(7) "Vietnam"
+    [2]=>
+    string(46) "https://www.amcharts.com/svg-maps/?map=vietnam"
+    [3]=>
+    string(7) "Vietnam"
+  }
+  [254]=>
+  array(4) {
+    [0]=>
+    string(118) "<li><a title="Wallis and Futuna" href="https://www.amcharts.com/svg-maps/?map=wallisFutuna">Wallis and Futuna</a></li>"
+    [1]=>
+    string(17) "Wallis and Futuna"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=wallisFutuna"
+    [3]=>
+    string(17) "Wallis and Futuna"
+  }
+  [255]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="World" href="https://www.amcharts.com/svg-maps/?map=world">World</a></li>"
+    [1]=>
+    string(5) "World"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=world"
+    [3]=>
+    string(5) "World"
+  }
+  [256]=>
+  array(4) {
+    [0]=>
+    string(104) "<li><a title="World India" href="https://www.amcharts.com/svg-maps/?map=worldIndia">World India</a></li>"
+    [1]=>
+    string(11) "World India"
+    [2]=>
+    string(49) "https://www.amcharts.com/svg-maps/?map=worldIndia"
+    [3]=>
+    string(11) "World India"
+  }
+  [257]=>
+  array(4) {
+    [0]=>
+    string(119) "<li><a title="World - Kashmir 2" href="https://www.amcharts.com/svg-maps/?map=worldKashmir2">World - Kashmir 2</a></li>"
+    [1]=>
+    string(17) "World - Kashmir 2"
+    [2]=>
+    string(52) "https://www.amcharts.com/svg-maps/?map=worldKashmir2"
+    [3]=>
+    string(17) "World - Kashmir 2"
+  }
+  [258]=>
+  array(4) {
+    [0]=>
+    string(165) "<li><a title="World - Kashmir 2 with Antarctica" href="https://www.amcharts.com/svg-maps/?map=worldKashmir2WithAntarctica">World - Kashmir 2 with Antarctica</a></li>"
+    [1]=>
+    string(33) "World - Kashmir 2 with Antarctica"
+    [2]=>
+    string(66) "https://www.amcharts.com/svg-maps/?map=worldKashmir2WithAntarctica"
+    [3]=>
+    string(33) "World - Kashmir 2 with Antarctica"
+  }
+  [259]=>
+  array(4) {
+    [0]=>
+    string(120) "<li><a title="World with Kashmir" href="https://www.amcharts.com/svg-maps/?map=worldKashmir">World with Kashmir</a></li>"
+    [1]=>
+    string(18) "World with Kashmir"
+    [2]=>
+    string(51) "https://www.amcharts.com/svg-maps/?map=worldKashmir"
+    [3]=>
+    string(18) "World with Kashmir"
+  }
+  [260]=>
+  array(4) {
+    [0]=>
+    string(128) "<li><a title="World - Russia Split" href="https://www.amcharts.com/svg-maps/?map=worldRussiaSplit">World - Russia Split</a></li>"
+    [1]=>
+    string(20) "World - Russia Split"
+    [2]=>
+    string(55) "https://www.amcharts.com/svg-maps/?map=worldRussiaSplit"
+    [3]=>
+    string(20) "World - Russia Split"
+  }
+  [261]=>
+  array(4) {
+    [0]=>
+    string(174) "<li><a title="World - Russia Split with Antarctica" href="https://www.amcharts.com/svg-maps/?map=worldRussiaSplitWithAntarctica">World - Russia Split with Antarctica</a></li>"
+    [1]=>
+    string(36) "World - Russia Split with Antarctica"
+    [2]=>
+    string(69) "https://www.amcharts.com/svg-maps/?map=worldRussiaSplitWithAntarctica"
+    [3]=>
+    string(36) "World - Russia Split with Antarctica"
+  }
+  [262]=>
+  array(4) {
+    [0]=>
+    string(133) "<li><a title="World with Antarctica" href="https://www.amcharts.com/svg-maps/?map=worldWithAntarctica">World with Antarctica</a></li>"
+    [1]=>
+    string(21) "World with Antarctica"
+    [2]=>
+    string(58) "https://www.amcharts.com/svg-maps/?map=worldWithAntarctica"
+    [3]=>
+    string(21) "World with Antarctica"
+  }
+  [263]=>
+  array(4) {
+    [0]=>
+    string(87) "<li><a title="Yemen" href="https://www.amcharts.com/svg-maps/?map=yemen">Yemen</a></li>"
+    [1]=>
+    string(5) "Yemen"
+    [2]=>
+    string(44) "https://www.amcharts.com/svg-maps/?map=yemen"
+    [3]=>
+    string(5) "Yemen"
+  }
+  [264]=>
+  array(4) {
+    [0]=>
+    string(90) "<li><a title="Zambia" href="https://www.amcharts.com/svg-maps/?map=zambia">Zambia</a></li>"
+    [1]=>
+    string(6) "Zambia"
+    [2]=>
+    string(45) "https://www.amcharts.com/svg-maps/?map=zambia"
+    [3]=>
+    string(6) "Zambia"
+  }
+  [265]=>
+  array(4) {
+    [0]=>
+    string(96) "<li><a title="Zimbabwe" href="https://www.amcharts.com/svg-maps/?map=zimbabwe">Zimbabwe</a></li>"
+    [1]=>
+    string(8) "Zimbabwe"
+    [2]=>
+    string(47) "https://www.amcharts.com/svg-maps/?map=zimbabwe"
+    [3]=>
+    string(8) "Zimbabwe"
+  }
+}
