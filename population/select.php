@@ -9,8 +9,8 @@ catch(PDOException $e){
   //echo "Connection failed: ". $e->getMessage();
 }
 $query  = $db->prepare("SELECT * FROM `country_map` WHERE `country` = :country");
-$b = 'China';
-$query->bindParam(':country', $b);
+$country = $_REQUEST['country'];
+$query->bindParam(':country', $country);
 $query->execute();
 while($row = $query->fetch(PDO::FETCH_ASSOC)) {
   echo $row['map'];
